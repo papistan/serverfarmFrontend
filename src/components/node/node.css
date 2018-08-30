@@ -1,0 +1,23 @@
+.Hd {
+  flex: 1;
+  height: 13vh;
+  width: 13vw;
+  margin: 5px;
+  background-color: blue;
+}
+
+.Ch {
+  flex: 1;
+  height: 13vh;
+  width: 13vw;
+  margin: 5px;
+  background-color: red;
+}
+
+.server-node {
+  flex: 1;
+  height: 13vh;
+  width: 13vw;
+  margin: 5px;
+  background-color: rgb(42, 42, 42);
+}

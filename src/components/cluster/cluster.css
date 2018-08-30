@@ -1,0 +1,12 @@
+.server-canvas-container {
+  height: 100%;
+  width: 70vw;
+  font-size: 0.5em;
+}
+
+.servers-container {
+  width: 65vw;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+}

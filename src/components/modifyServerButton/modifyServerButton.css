@@ -1,0 +1,28 @@
+.modify-server-button {
+  border-style: solid;
+  border-width: 5px;
+  background-color: transparent;
+  width: 5vw;
+  height: 7vh;
+  margin: 5px;
+  margin-top: 10vh;
+  border-radius: 100px;
+}
+
+.add-color {
+  color: white;
+}
+
+.add {
+  border-color: white;
+  color: white;
+}
+
+.subtract-color {
+  color: darkgray;
+}
+
+.subtract {
+  border-color: darkgray;
+  color: darkgray;
+}
